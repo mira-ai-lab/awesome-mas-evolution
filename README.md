@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="figs/logo.png" style="width: 90%;"/>
+<img src="figs/logo.png" style="width: 95%; height: 30px; object-fit: fill;"/>
 
 ## Beyond Individual Intelligence: A Survey of Multi-agent Collaboration, Attribution and Evolution
 
