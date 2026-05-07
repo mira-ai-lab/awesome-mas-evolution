@@ -633,15 +633,12 @@ We organize the literature around **four main pillars**:
 
 | Date | Name | Title | Introduction | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|:-:|
-| 1999 | `Swarm intelligence` | Swarm intelligence: from natural to artificial systems | ![bonabeau1999swarm](figs/bonabeau1999swarm.png) | [![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/PLACEHOLDER_PAPER_TBD) | ![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=github&logoColor=white) |
 | 2025 | `Agent Systems` | Towards a science of scaling agent systems | ![kim2025towards](figs/kim2025towards.png) | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.08296) | ![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=github&logoColor=white) |
-| TBD | `Framework` | Efficiency-First Design for LLM-Based Multi-Agent Systems: A Framework and Empirical Analysis | ![koduriefficiency](figs/koduriefficiency.png) | [![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/PLACEHOLDER_PAPER_TBD) | ![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=github&logoColor=white) |
 
 #### Attribution to Evolution
 
 | Date | Name | Title | Introduction | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|:-:|
-| 1989 | `Self-organized shortcuts` | Self-organized shortcuts in the Argentine ant | ![goss1989self](figs/goss1989self.png) | [![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/PLACEHOLDER_PAPER_TBD) | ![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=github&logoColor=white) |
 | 2007 | `Mutation` | Mutation as a stress response and the regulation of evolvability | ![galhardo2007mutation](figs/galhardo2007mutation.png) | [![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/PLACEHOLDER_PAPER_TBD) | ![Placeholder](https://img.shields.io/badge/placeholder-9E9E9E?style=for-the-badge&logo=github&logoColor=white) |
 
 #### Evolution Taxonomy
